@@ -1,0 +1,12 @@
+[submodule "flair stats"]
+	path = flair stats
+	url = git@github.com:ngramp/flairstats.git
+[submodule "dadandme"]
+	path = dadandme
+	url = git@github.com:ngramp/DadAndMeClub.git
+[submodule "PlanetsDootrix"]
+	path = PlanetsDootrix
+	url = git@github.com:ngramp/PlanetsDootrix.git
+[submodule "pitstop project"]
+	path = pitstop project
+	url = git@github.com:ngramp/pitstop-project.git
