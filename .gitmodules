@@ -10,3 +10,6 @@
 [submodule "pitstop project"]
 	path = pitstop project
 	url = git@github.com:ngramp/pitstop-project.git
+[submodule "Deeplearning GUI"]
+	path = Deeplearning GUI
+	url = git@github.com:ngramp/Deeplearning-GUI.git
